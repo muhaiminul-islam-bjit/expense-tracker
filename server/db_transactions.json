@@ -2,8 +2,8 @@
   "transactions": [
     {
       "name": "student",
+      "amount": "1000",
       "type": "income",
-      "amount": 500,
       "id": 5
     },
     {
@@ -17,6 +17,12 @@
       "type": "income",
       "amount": 7,
       "id": 7
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 1000,
+      "id": 8
     }
   ]
 }
